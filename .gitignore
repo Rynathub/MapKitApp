@@ -1,0 +1,70 @@
+# === macOS System Files ===
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# === Xcode Project Files ===
+*.xcworkspace/
+*.xcuserstate
+xcuserdata/
+xcshareddata/
+*.xccheckout
+*.xcscheme
+*.xcscmblueprint
+
+# === Xcode Derived Data ===
+DerivedData/
+.idea/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# === Build and Temp Files ===
+build/
+*.o
+*.dSYM/
+*.swp
+*.lock
+*.log
+
+# === Swift Package Manager (SPM) ===
+.swiftpm/
+.build/
+Package.resolved
+
+# === CocoaPods ===
+Pods/
+*.xcworkspace
+podfile.lock
+
+# === Carthage ===
+Carthage/
+Carthage/Build/
+
+# === Fastlane ===
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/*.lock
+
+# === Ignore Archives ===
+*.xcarchive
+
+# === Git / SSH / Security Files ===
+id_rsa
+id_rsa.pub
+*.pem
+*.crt
+*.key
+
+# === Ignore Generated Localization Files ===
+*.lproj/
+
+# === Ignore SwiftLint Cache ===
+.swiftlint.yml
+.swiftlint_cache/
+
+# === Ignore Firebase & GoogleService Info ===
+GoogleService-Info.plist
