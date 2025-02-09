@@ -1,9 +1,0 @@
-# Xcode project user data (should not be tracked)
-*.xcuserstate
-xcuserdata/
-xcshareddata/
-*.xcscmblueprint
-*.xccheckout
-*.xcodeproj/project.xcworkspace/
-*.xcodeproj/xcuserdata/
-*.xcodeproj/xcshareddata/
